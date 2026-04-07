@@ -1,6 +1,6 @@
 # Bank Customer Churn Analysis
 
-Bank churn analyis of 10000 customers in a bank
+Bank churn analysis of 10000 customers in a bank
 ![Bank Customer Churn Dashboard](Bank_Churn_Dashboard.png)
 
 ## Overview
